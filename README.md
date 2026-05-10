@@ -70,14 +70,14 @@ tpfinal/
 ├── Form3.cs
 ├── Inicio.Designer.c
 ├── ListItem.resx
-├── Resources
+├── Resources/
 ├── Utils.cs
-├── bin
+├── bin/
 ├── Estrategia.cs
 ├── Form2.cs
 ├── Form3.Designer.cs
 ├── Inicio.resx
-├── obj
+├── obj/
 ├── tpfinal.csproj
 ├── Cola.cs
 ├── Form1.cs
@@ -86,12 +86,12 @@ tpfinal/
 ├── ListItem.cs
 ├── Program.cs
 ├── tpfinal.csproj.user
-├── datasets
+├── datasets/
 ├── Form1.Designer.cs
 ├── Form2.resx
 ├── Inicio.cs
 ├── ListItem.Designer.cs
-├── Properties
+├── Properties/
 └── tpfinal.sln
 ```
 
