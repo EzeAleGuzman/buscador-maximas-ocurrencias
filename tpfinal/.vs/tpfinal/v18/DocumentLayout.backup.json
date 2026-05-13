@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\dato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:dato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\datasets\\dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:datasets\\dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\resources\\respuesta.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:resources\\respuesta.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\resources\\respuest2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:resources\\respuest2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\resources\\limpiar.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:resources\\limpiar.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\resources\\buscar.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:resources\\buscar.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\sarabe89\\downloads\\clases\\tpfinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -53,8 +77,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estrategia.cs",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Estrategia.cs",
+              "RelativeDocumentMoniker": "Estrategia.cs",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Estrategia.cs",
+              "RelativeToolTip": "Estrategia.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAhwFEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:11:37.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:11:37.49Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:13:45.902Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dato.cs",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Dato.cs",
+              "RelativeDocumentMoniker": "Dato.cs",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Dato.cs",
+              "RelativeToolTip": "Dato.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:13:53.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Backend.cs",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Backend.cs",
+              "RelativeDocumentMoniker": "Backend.cs",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Backend.cs",
+              "RelativeToolTip": "Backend.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:11:37.498Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -63,49 +150,22 @@
               "RelativeDocumentMoniker": "Cola.cs",
               "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Cola.cs",
               "RelativeToolTip": "Cola.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-10T14:13:54.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dato.cs",
-              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Dato.cs",
-              "RelativeDocumentMoniker": "Dato.cs",
-              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Dato.cs",
-              "RelativeToolTip": "Dato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T14:13:53.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Utils.cs",
-              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Utils.cs",
-              "RelativeDocumentMoniker": "Utils.cs",
-              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Utils.cs",
-              "RelativeToolTip": "Utils.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T14:13:50.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form3.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T14:13:48.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T23:58:48.686Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -121,19 +181,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Form2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T14:13:45.902Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "DocumentIndex": 9,
+              "Title": "respuesta.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [50x52, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Resources\\respuesta.png",
+              "RelativeDocumentMoniker": "Resources\\respuesta.png",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Resources\\respuesta.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [50x52, 32 bits, PNG]",
+              "RelativeToolTip": "Resources\\respuesta.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [50x52, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-12T23:59:25.837Z",
+              "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [50x52, 32 bits, PNG]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "dataset.csv",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\datasets\\dataset.csv",
+              "RelativeDocumentMoniker": "datasets\\dataset.csv",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\datasets\\dataset.csv",
+              "RelativeToolTip": "datasets\\dataset.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-12T23:59:29.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "respuest2.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [50x52, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Resources\\respuest2.png",
+              "RelativeDocumentMoniker": "Resources\\respuest2.png",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Resources\\respuest2.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [50x52, 32 bits, PNG]",
+              "RelativeToolTip": "Resources\\respuest2.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [50x52, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-12T23:59:25.047Z",
+              "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [50x52, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Limpiar.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [27x27, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Resources\\Limpiar.png",
+              "RelativeDocumentMoniker": "Resources\\Limpiar.png",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Resources\\Limpiar.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [27x27, 32 bits, PNG]",
+              "RelativeToolTip": "Resources\\Limpiar.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [27x27, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-12T23:59:24.271Z",
+              "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [27x27, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Buscar.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [29x27, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Resources\\Buscar.png",
+              "RelativeDocumentMoniker": "Resources\\Buscar.png",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Resources\\Buscar.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [29x27, 32 bits, PNG]",
+              "RelativeToolTip": "Resources\\Buscar.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [29x27, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-12T23:59:22.595Z",
+              "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [29x27, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -141,37 +250,35 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAGoNAAAAAAAAAAArwH8NAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-05-10T14:13:10.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T14:13:10.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T14:11:37.49Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-05-10T14:13:48.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Backend.cs",
-              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Backend.cs",
-              "RelativeDocumentMoniker": "Backend.cs",
-              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Backend.cs",
-              "RelativeToolTip": "Backend.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Utils.cs",
+              "RelativeDocumentMoniker": "Utils.cs",
+              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Utils.cs",
+              "RelativeToolTip": "Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T14:11:37.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T14:13:50.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -179,21 +286,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAAE8AAAAAAAAAAAAYwGoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T14:11:36.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Estrategia.cs",
-              "DocumentMoniker": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Estrategia.cs",
-              "RelativeDocumentMoniker": "Estrategia.cs",
-              "ToolTip": "C:\\Users\\Sarabe89\\Downloads\\clases\\tpfinal\\Estrategia.cs",
-              "RelativeToolTip": "Estrategia.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T14:11:37.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T14:11:36.062Z"
             }
           ]
         }

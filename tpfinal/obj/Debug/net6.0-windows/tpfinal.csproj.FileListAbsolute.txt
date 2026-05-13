@@ -70,3 +70,4 @@ C:\Users\Sarabe89\Downloads\clases\tpfinal\obj\Debug\net6.0-windows\refint\tpfin
 C:\Users\Sarabe89\Downloads\clases\tpfinal\obj\Debug\net6.0-windows\tpfinal.pdb
 C:\Users\Sarabe89\Downloads\clases\tpfinal\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
 C:\Users\Sarabe89\Downloads\clases\tpfinal\obj\Debug\net6.0-windows\ref\tpfinal.dll
+C:\Users\Sarabe89\Downloads\clases\tpfinal\obj\Debug\net6.0-windows\tpfinal.sourcelink.json
