@@ -147,8 +147,8 @@ tpfinal.sln
 
 ## 👨‍💻 Integrantes
 
-- Apellido, Nombre
 - Corach, Walter
+- Centurión, Adrian
 - Guzman, Ezequiel
 
 
