@@ -82,11 +82,35 @@ namespace tpfinal
 
         public void BuscarConHeap(List<string> datos, int cantidad, List<Dato> collected)
         {
-            //Implementar
+            // Uso un Diccionario para contar cuantas veces aparece cada texto
+            Dictionary<string, int> contador = new Dictionary<string, int>();
+            foreach (string s in datos)
+            {
+                if (contador.ContainsKey(s)) contador[s]++; // Si ya la conocía, le sumo 1 al contador
+                else contador[s] = 1; // Si es la primera vez que la veo, la anoto con un 1
+            }
+
+            // Paso los resultados del conteo a una lista de objetos tipo Dato
+            List<Dato> listaD = new List<Dato>();
+            foreach (var aux in contador)
+            {
+                // El constructor de Dato recibe: ocurrencias y el texto
+                listaD.Add(new Dato(aux.Value, aux.Key));
+            }
+
+            // Creo el Heap pasandole la lista como un arreglo
+            // El constructor del Heap ya se encarga de ordenarlo solo
+            Heap miHeap = new Heap(listaD.ToArray());
+
+            // Saco del Heap la cantidad de mejores elementos que me pidieron
+            for (int i = 0; i < cantidad; i++)
+            {
+                Dato max = miHeap.Eliminar();
+                if (max != null)
+                {
+                    collected.Add(max); // Lo agrego a la lista que ve el usuario
+                }
+            }
         }
-
-
-
-
     }
 }
