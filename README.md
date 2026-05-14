@@ -74,6 +74,8 @@ tpfinal/
 ├── Utils.cs
 ├── bin/
 ├── Estrategia.cs
+├── Heap.cs
+├── QuickSort.cs
 ├── Form2.cs
 ├── Form3.Designer.cs
 ├── Inicio.resx
