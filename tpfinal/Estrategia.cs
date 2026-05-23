@@ -15,15 +15,50 @@ namespace tpfinal
 	
 		public String Consulta1(List<string> datos)
 		{
-			string resutl = "Implementar";
+			string resutl = "";
+            List<Dato> heapResultado = new List<Dato>();
+            List<Dato> ordenResultado = new List<Dato>();
+
+            // Stopwatch crea un cronometro para medir el tiempo de ejecución de cada metodo.
+            // con StartNew() se inicia el cronometro automaticamente.
+            Stopwatch swHeap = Stopwatch.StartNew();
+            BuscarConHeap(datos, 5, heapResultado);
+            // con Stop() se detiene el cronometro.
+            swHeap.Stop();
+
+            Stopwatch swOrden = Stopwatch.StartNew();
+            BuscarConOrden(datos, 5, ordenResultado);
+            swOrden.Stop();
+            // Con ElapsedMilliseconds se obtiene el tiempo transcurrido en milisegundos.
+            resutl = "BuscarConHeap: " + swHeap.ElapsedMilliseconds + " ms \nBuscarConOrden: " + swOrden.ElapsedMilliseconds + " ms";
+
             return resutl;
 		}
 
 
 		public String Consulta2(List<string> datos)
 		{
-			string result = "Implementar";
-            
+			// Uso un Diccionario para contar cuantas veces aparece cada texto.
+            Dictionary<string, int> contadorOcurrencias = new Dictionary<string, int>();
+            foreach (string s in datos)
+            {
+                if (contadorOcurrencias.ContainsKey(s)) contadorOcurrencias[s]++;
+                else contadorOcurrencias[s] = 1;
+            }
+
+            // Paso los resultados del conteo a una lista de objetos tipo Dato.
+            List<Dato> listaD = new List<Dato>();
+            foreach (var aux in contadorOcurrencias)
+            {
+                listaD.Add(new Dato(aux.Value, aux.Key));
+            }
+
+            // Creo el Heap pasandole la lista como un arreglo.
+            Heap heapDatos = new Heap(listaD.ToArray());
+
+            // Obtengo el camino a la hoja más izquierda.
+            string result = heapDatos.ObtenerCaminoHojaIzquierda();
+
             return result;
         }
 
@@ -31,7 +66,26 @@ namespace tpfinal
 
 		public String Consulta3(List<string> datos)
 		{
-			string result = "Implementar";
+			// Uso un Diccionario para contar cuantas veces aparece cada texto
+            Dictionary<string, int> contadorOcurrencias = new Dictionary<string, int>();
+            foreach (string s in datos)
+            {
+                if (contadorOcurrencias.ContainsKey(s)) contadorOcurrencias[s]++;
+                else contadorOcurrencias[s] = 1;
+            }
+
+            // Paso los resultados del conteo a una lista de objetos tipo Dato
+            List<Dato> listaD = new List<Dato>();
+            foreach (var aux in contadorOcurrencias)
+            {
+                listaD.Add(new Dato(aux.Value, aux.Key));
+            }
+
+            // Creo el Heap pasandole la lista como un arreglo
+            Heap heapDatos = new Heap(listaD.ToArray());
+
+            // Obtengo los datos de la heap con sus niveles
+            string result = heapDatos.ObtenerNivelesHeap();
 
             return result;
 		}
@@ -44,7 +98,7 @@ namespace tpfinal
             foreach (string s in datos)
                 {
                     //Separamos del String que viene de datos  el titulo y la descripcion 
-                    string[] partes = s.Split('-');
+                    string[] partes = s.Split(';');
                     string titulo = partes[0];
                     string descripcion = partes.Length > 1 ? partes[1] : "";
 
