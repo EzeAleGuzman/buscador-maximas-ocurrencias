@@ -84,5 +84,48 @@ namespace tpfinal
             datos[i] = datos[j];
             datos[j] = aux;
         }
+
+        // Metodo para obtener el camino a la hoja mas izquierda
+        public string ObtenerCaminoHojaIzquierda()
+        {
+            // Si el heap esta vacio no hay camino que recorrer.
+            if (tam == 0) return "El Heap esta vacio.";
+
+            // Inicio el camino desde la raiz que esta en la posicion 1.
+            string camino = "Raiz (En " + datos[1].texto + " hay " + datos[1].ocurrencia + " ocurrencias)";
+            int posicion = 1;
+
+            // Voy siempre al hijo izquierdo hasta que no exista
+            while (2 * posicion <= tam)
+            {
+                // Voy siempre por el hijo izquierdo
+                posicion = 2 * posicion;
+                camino += " \n <- Izq (En " + datos[posicion].texto + " hay " + datos[posicion].ocurrencia + " ocurrencias)";
+            }
+
+            return camino;
+        }
+
+        // Metodo para obtener los datos de la heap con sus niveles
+        public string ObtenerNivelesHeap()
+        {
+            // Si el heap esta vacio no hay camino que recorrer.
+            if (tam == 0) return "La heap esta vacia";
+
+            string resultado = "";
+
+            for (int i = 1; i <= tam; i++)
+                {
+                    int nivel = 0;
+                    int idx = i;
+                    while (idx > 1) { idx >>= 1; nivel++; }
+
+                    if (i == 1)
+                        resultado += "En el nivel " + nivel + " " + datos[i].texto + " hay " + datos[i].ocurrencia + " ocurrencias";
+                    else
+                        resultado += "\nEn el nivel " + nivel + " " + datos[i].texto + " hay " + datos[i].ocurrencia + " ocurrencias";
+                }
+            return resultado;
+        }
     }
 }
