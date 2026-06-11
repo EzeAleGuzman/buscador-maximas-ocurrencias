@@ -93,40 +93,32 @@ namespace tpfinal
 
         public void BuscarConOrden(List<string> datos, int cantidad, List<Dato> collected)
         {
-            List<Dato> ocurrencias = new List<Dato>();
+            Dictionary<string, Dato> ocurrencias = new Dictionary<string, Dato>();
 
-            foreach (string s in datos)
-                {
-                    //Separamos del String que viene de datos  el titulo y la descripcion 
-                    string[] partes = s.Split(';');
-                    string titulo = partes[0];
-                    string descripcion = partes.Length > 1 ? partes[1] : "";
-
-                    
-                    bool encontrado = false;
-                    for (int i = 0; i < ocurrencias.Count; i++)
-                    {
-                        if (ocurrencias[i].texto == titulo)
-                        {
-                            ocurrencias[i].ocurrencia++;
-                            encontrado = true;
-                            break;
-                        }
-                    }
-
-                    
-                    if (!encontrado)
-                    {
-                        ocurrencias.Add(new Dato(1, titulo, descripcion));
-                    }
-                }
-
-                QuickSort.Ordenar(ocurrencias);
-
-                for (int i = 0; i < cantidad && i < ocurrencias.Count; i++)
-                    {
-                    collected.Add(ocurrencias[i]);
-                    }
+		    foreach (string s in datos)
+		    {
+		        string[] partes = s.Split(';');
+		        string titulo = partes[0];
+		        string descripcion = partes.Length > 1 ? partes[1] : "";
+		
+		        if (ocurrencias.ContainsKey(titulo))
+		        {
+		            ocurrencias[titulo].ocurrencia++;
+		        }
+		        else
+		        {
+		            ocurrencias.Add(titulo, new Dato(1, titulo, descripcion));
+		        }
+		    }
+		
+		    List<Dato> listaOrdenada = new List<Dato>(ocurrencias.Values);
+		
+		    QuickSort.Ordenar(listaOrdenada);
+		
+		    for (int i = 0; i < cantidad && i < listaOrdenada.Count; i++)
+		    {
+		        collected.Add(listaOrdenada[i]);
+		    }
         }
         
 
